@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    color: rgb(192, 45, 94);
+}
+a{
+    margin-left: 15px;
+}
+h2{
+    color: rgb(108, 48, 163);
+}
+span,h3{
+    color: chocolate;
+    font-size: 22px;
+    font-weight: bolder;
+}
+ul{
+    list-style-position: inside;
+}
+img{
+    width: 90px;
+}
+.keman{
+    width: 200px;
+}
+.gitar1{
+    width: 100px;
+}
+.hakimizda__p{
+    text-align: start;
+}
+h3{
+    color: chocolate;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: start;
+}
+ol{
+    list-style-position: inside;
+}
